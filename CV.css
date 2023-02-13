@@ -1,0 +1,23 @@
+body {
+    font-family: arial, sans-serif;
+    background-color: rgb(185, 223, 224);
+}
+
+.left{
+    float: left;
+    width: 30%;
+}
+
+.personal-infos{
+    background-color: rgb(88, 193, 196);
+    padding-left: 20px;   
+}
+
+.pp img{
+    width: 90%;
+    height: auto;
+}
+
+.about-me{
+    text-align: justify;
+}
